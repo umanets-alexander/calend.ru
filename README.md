@@ -1,5 +1,7 @@
 # Скин calend.ru для Rainmeter
 
+[![GitHub release (latest by date and asset including pre-releases)](https://img.shields.io/github/downloads-pre/umanets-alexander/calend.ru/1.0/Calend.ru_1.0.rmskin)](https://github.com/umanets-alexander/calend.ru/releases/download/1.0/Calend.ru_1.0.rmskin)
+
 Предлагаю Вашему вниманию скин для [Rainmeter](https://www.rainmeter.net), который отображает предстоящие праздники с сайта [calend.ru](https://www.calend.ru), информер взят с того же самого сайта.
 
 Пример скина представлен ниже.
